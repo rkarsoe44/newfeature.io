@@ -5,4 +5,4 @@
 ### Usage
 
 * import myName from "newfeature.io"
-* import myNameUi from "newfeature.io"
+* import myNameUi from "leebal"
